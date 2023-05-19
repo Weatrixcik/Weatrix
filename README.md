@@ -30,4 +30,10 @@
  </h2>
 </br>
 
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
+<h2 align="center">
+<img src="https://komarev.com/ghpvc/?username=Weatrixcik&label=Ziyaretçi%20Sayısı&color=552b75" alt="Bes-js"/>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Weatrixcik?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+</h2>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1003950576800899083?hideDiscrim=true)](https://discord.com/users/1003950576800899083)
