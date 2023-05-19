@@ -36,4 +36,8 @@
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Weatrixcik?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
 </h2>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1003950576800899083?hideDiscrim=true)](https://discord.com/users/1003950576800899083)
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
+
+<h2 align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1003950576800899083?theme=light&hideDiscrim=true&hideBadges=false&bg=376074&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla" align="center" />
+ </h2>
