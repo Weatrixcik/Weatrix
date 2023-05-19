@@ -13,5 +13,12 @@
   <h2 align="center">
  <img src="https://skillicons.dev/icons?i=dotnet,express,gitlab,postman,powershell,regex,stackoverflow,vscode,visualstudio,atom&theme=dark" />
   </h2>
+  
+    <h2 align="center">
+ <img align="center" alt="Yarn" width="40px" src="https://cdn.discordapp.com/emojis/1077712529301721149.png?size=128&quality=lossless" />
+ <img align="center" alt="ChartJS" width="40px" src="https://cdn.discordapp.com/emojis/1077714784335700058.png?size=128&quality=lossless" />
+ <img align="center" alt="Json" width="40px" src="https://cdn.discordapp.com/emojis/1077716034234097744.webp?size=128&quality=lossless" />
+ </h2>
+</br>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1003950576800899083?hideDiscrim=true)](https://discord.com/users/1003950576800899083)
