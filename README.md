@@ -24,6 +24,6 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 <h2 align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1003950576800899083?theme=light&hideDiscrim=true&hideBadges=false&bg=376074&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla" align="center" />
+ <a href="https://discord.com/users/1003950576800899083%22%3E<img  width="400px" src="https://luppufy.onrender.com/v2/1003950576800899083?border=ff0000%22%3E</a>
  </h2>
  
